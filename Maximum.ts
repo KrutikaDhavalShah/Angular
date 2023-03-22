@@ -15,7 +15,6 @@ function Maximum(...Arr : number[]) : number
     return max;
 }
 
-var Ret : number = 0;
 var max : number = Maximum(23, 89,4,101,5)
 console.log(max);      //101
 
