@@ -12,7 +12,6 @@ function Maximum() {
     }
     return max;
 }
-var Ret = 0;
 var max = Maximum(23, 89, 4, 101, 5);
 console.log(max);
 var max = Maximum(23, 8, 6);
